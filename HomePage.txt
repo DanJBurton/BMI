@@ -1,3 +1,5 @@
 Front Page
 
 The front page is going to look good
+
+editing the front page
