@@ -1,1 +1,3 @@
 BMI Project
+
+This is example text to see if changes are being made
